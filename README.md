@@ -3,7 +3,7 @@ MINI PROJECT
   
 # CUSTOMIZED TOURISM PACKAGE SELECTION SYSTEM
 
-Diagrams
+**Diagrams**
 <ul>
   <li>UseCase</li> 
   <li>Domain</li> 
@@ -12,4 +12,7 @@ Diagrams
   <li>State</li> 
   <li>Activity</li> 
  <ul>
+
+**Code**
+JAVA
 
