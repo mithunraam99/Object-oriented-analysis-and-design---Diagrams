@@ -11,8 +11,8 @@ MINI PROJECT
   <li>Sequence</li> 
   <li>State</li> 
   <li>Activity</li> 
-<ul><br />
+</ul>
 
-**Code**
+**Code** <br />
 JAVA
 
