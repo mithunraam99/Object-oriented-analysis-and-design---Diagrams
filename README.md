@@ -5,3 +5,11 @@ MINI PROJECT
 
 Diagrams
 <ul>
+  <li>UseCase</li> 
+  <li>Domain</li> 
+  <li>Class</li> 
+  <li>Sequence</li> 
+  <li>State</li> 
+  <li>Activity</li> 
+ <ul>
+
